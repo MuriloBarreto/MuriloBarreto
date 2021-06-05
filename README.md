@@ -16,7 +16,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MuriloBarreto)](https://github.com/MuriloBarreto)
 
 [![MuriloBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloBarreto)](https://github.com/MuriloBarreto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBarreto&layout=compact)](https://github.com/MuriloBarreto/github-readme-stats)
