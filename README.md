@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create a new project and find a job.
 
 :heart: lover of technology and coding
 
