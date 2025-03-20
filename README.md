@@ -10,8 +10,6 @@
 
 :house_with_garden: I’m from Brazil.
 
-🌱 I’m currently learning React
-
 :heart: lover of technology and coding
 
 ## About me
