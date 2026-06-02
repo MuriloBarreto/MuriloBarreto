@@ -17,8 +17,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MuriloBarreto)](https://github.com/MuriloBarreto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-barreto-970655181/)]( https://www.linkedin.com/in/murilo-barreto-970655181/)
 
-![MuriloBarreto GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloBarreto&theme=github_dark&show_icons=true)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBarreto&layout=compact&theme=github_dark&hide=php)](https://github.com/MuriloBarreto/github-readme-stats)
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuriloBarreto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuriloBarreto&layout=compact&theme=tokyonight"/>
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
@@ -27,8 +27,8 @@
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 
 
 
